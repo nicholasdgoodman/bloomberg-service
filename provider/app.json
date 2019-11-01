@@ -12,7 +12,7 @@
   },
   "appAssets": [
     {
-      "src": "https://openfin.github.io/bloomberg-service/provider/assets/OpenFin.BloombergService.zip",
+      "src": "https://nicholasdgoodman.github.io/bloomberg-service/provider/assets/OpenFin.BloombergService.zip",
       "alias": "bloomberg-service",
       "target": "OpenFin.BloombergService.exe",
       "args": "",
